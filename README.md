@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Thekuca
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on any FiveM projects
-- 📫 How to reach me Discord: Thekuca#3089
+- 📫 How to reach me Discord: thekuca / Thekuca#0001
