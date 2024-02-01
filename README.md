@@ -8,5 +8,5 @@
        <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=thekuca&show_icons=true&theme=react&layout=compact&hide_border=true" alt="thekuca" /> 
 </div>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+START_SECTION:activity
+END_SECTION:activity
